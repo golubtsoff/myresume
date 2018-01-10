@@ -5,7 +5,7 @@
 - Возраст: 38 лет (07.02.1979)
 - Проживание: Новосибирск, Россия
 - сот. +7 (913) 926-73-72
-- e-mail: e.golubtsov@gmail.com
+- e-mail: e.golubtsoff@gmail.com
 </small>
 
 ## Цель: Java-разработчик
