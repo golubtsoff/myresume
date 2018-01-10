@@ -79,3 +79,5 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 ### Знание языков
 Русский — родной        
 Английский — читаю профессиональную литературу
+
+*Скачать резюме в формате [pdf](contents/e.golubtsov.pdf), [docx](contents/e.golubtsov.docx)*
