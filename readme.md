@@ -1,11 +1,12 @@
 # Голубцов Евгений Игоревич
 ![](contents/myphoto-200x200.jpg)
-
+<small>
 - Пол: муж.
 - Возраст: 38 лет (07.02.1979)
 - Проживание: Новосибирск, Россия
 - сот. +7 (913) 926-73-72
 - e-mail: e.golubtsov@gmail.com
+</small>
 
 ## Цель: Java-разработчик
 Занятость: полная занятость     
@@ -15,6 +16,8 @@
 Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, MySQL, SQL, Apache Tomcat
 
 ### Достижения
+<small> 
+   
 - Разработка [Web приложения "База данных резюме"](http://resumelight.herokuapp.com/) ([исходники на Github](https://github.com/golubtsoff/basejava); используемые технологии: Java 8, GitHib/Git, Сервлеты, JSP, JSTL, Tomcat, JUnit, PostgreSQL, GSON, JAXB)
 
 - [Сертификат](http://javaops.ru/certificate?email=evigol@mail.ru) о выполнении проекта "Разработка Web приложения "База данных резюме" (javaops.ru)
@@ -40,11 +43,13 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 - Разработка системы ротации баннеров и ведения статистики показов в рамках разработки программного обеспечения для электротехнических расчётов (Delphi/Lazarus, PHP, MySQL)
 
 - Веду блог о проектировании http://blog.avralsoft.ru
+</small>
 
-### Опыт работы
-*Ноябрь 2017 - Январь 2018*       
+### Опыт работы     
+
+*Ноябрь 2017 - Январь 2018*      
 Участие в проекте [Разработка Web приложения "База данных резюме"](http://resumelight.herokuapp.com/)([исходники на Github](https://github.com/golubtsoff/basejava)):
-
+<small>
 - **Используемые технологии**: Java 8, GitHib/Git, Сервлеты, JSP, JSTL, Tomcat, JUnit, PostgreSQL, GSON, JAXB
 - **Хранение резюме**:     
     - в памяти на основе массива, отсортированного массива, списка и ассоциированного массива (Map)
@@ -56,12 +61,14 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 - **Деплой веб-приложения**
     - в контейнер сервлетов [Tomcat](http://tomcat.apache.org/)
     - в облачный сервис [Heroku](https://www.heroku.com/)
+</small> 
 
-*Апрель 2017 — по настоящее время*        
+*Апрель 2017 — по настоящее время*   
 **ООО "Проект-Сервис"** - главный специалист (электроснабжение)
 
 *Январь 2013 — Март 2017*       
 **АО "Сибинвестпроект"** - руководитель группы (электроснабжение)
+ 
 
 *Общий трудовой стаж – с 2001 г по настоящее время (проектирование систем электроснабжения).*
 
