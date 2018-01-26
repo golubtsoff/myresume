@@ -32,7 +32,7 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 
 - [Сертификат](https://geekbrains.ru/certificates/216223.ru) «Git. Быстрый старт. Инструмент командной разработки» (geekbrains.ru)
 
-- [Сертификат](https://certification.mail.ru/certificates/1f9f5909-1f7a-44f8-8285-e5cf488ce2a2/) о прохождении тестирования "Java Тестирование" с результатом 71% (https://certification.mail.ru/)
+- [Сертификат](https://certification.mail.ru/certificates/e7276088-1661-49fb-a759-03f20c22acec/) о прохождении тестирования "Java Тестирование" с результатом 80% (https://certification.mail.ru/)
 
 - [Сертификат](https://geekbrains.ru/certificates/394389) об успешном прохождении тестирования "Java. Сложный уровень" (geekbrains.ru)
 
