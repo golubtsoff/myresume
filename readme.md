@@ -47,6 +47,12 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 
 ### Опыт работы     
 
+*Апрель 2018 - Июнь 2018*
+**Департамент системных исследований и перспективного развития (НИО-7)"** - программист
+<small>
+Обязанности: разработка программного обеспечения для объектов энергетики (платформа Java)
+</small>
+
 *Ноябрь 2017 - Январь 2018*      
 Участие в проекте [Разработка Web приложения "База данных резюме"](http://resumelight.herokuapp.com/)([исходники на Github](https://github.com/golubtsoff/basejava)):
 <small>
