@@ -13,7 +13,7 @@
 График работы: полный день
 
 ### Ключевые навыки
-Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, MySQL, SQL, Apache Tomcat
+Java, Java EE, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, MySQL, SQL, Apache Tomcat, Git/Github, Apache Maven
 
 ### Достижения
 <small> 
@@ -79,6 +79,8 @@ Java, Git/Github, Apache Maven, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, 
 *Общий трудовой стаж – с 2001 г по настоящее время (проектирование систем электроснабжения).*
 
 ### Высшее образование
+2020 - **Новосибирский Государственный Технический Универститет (НГТУ)**       
+диплом о профессиональной переподготовке по программе "Программное обеспечение вычислительной техники и автоматизированных систем"  
 2001 - **Новосибирский Государственный Технический Универститет (НГТУ)**       
 диплом инженера по специальности "Электроснабжение" (с отличием)
 
