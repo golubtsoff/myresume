@@ -42,7 +42,6 @@ Java, Java EE, Hibernate ORM, JUnit, Java Servlets, JSP, JSTL, MySQL, SQL, Apach
 
 - Разработка системы ротации баннеров и ведения статистики показов в рамках разработки программного обеспечения для электротехнических расчётов (Delphi/Lazarus, PHP, MySQL)
 
-- Веду блог о проектировании http://blog.avralsoft.ru
 </small>
 
 ### Опыт работы     
